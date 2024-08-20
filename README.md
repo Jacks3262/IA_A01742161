@@ -1,4 +1,4 @@
-# Los archivos de Logistic_Reg_A01742161 muestran el ejercicio realizado para Week02_Challenge1.
+# Los archivos de A01742161_LogReg muestran el ejercicio realizado para Week02_Challenge1.
 
 Se muestran resultados favorecedores, con: 
 Accuracy: 1.0 
