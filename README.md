@@ -1,5 +1,6 @@
 # Portafolio de Análisis 
 ## El archivo de Ética_A01742161_1 muestra el entregable *Análisis del contexto y la normatividad*
+En este se habla sobre la toma de decisiones algortítmicas dentro del marco legal y moral y cómo se relaciona con el reto.
 # Portafolio de implementación
 ## Los archivos de A01742161_LogReg muestran el ejercicio realizado para Week02_Challenge1.
 
