@@ -8,7 +8,7 @@ En este se habla sobre la toma de decisiones algortítmicas dentro del marco leg
 Se muestran los resultados favorecedores, con un buen ajuste del modelo, tanto para el modelo por medio de muestras óptimo y el modelo con todo el conjunto de datos.
 
 # Portafolio de implementación
-## Los archivos de A01742161_LogReg muestran el ejercicio realizado para Week02_Challenge1.
+## Los archivos de A01742161_LogReg_ muestran el ejercicio realizado para Week02_Challenge1.
 
 Se muestran resultados favorecedores, con: 
 Accuracy: 1.0 
