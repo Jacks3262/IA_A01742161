@@ -16,7 +16,13 @@ Precision: 1.0
 Recall: 1.0 
 F_1 Score: 1.0
 
-Para las columnas de Attendance y Homework
+Para las columna de Homework
+y 
+Accuracy: 0.5 
+Precision: 1.0 
+Recall: 0.5 
+F_1 Score: 0.6666666666666666
+Para la columna de Attendance
 
 
 ## Los archivos de Valhalla_LogReg_ realizan el ejercicio de la segunda entrega, por medio de una regresión lineal que parte de Valks a Celsius.
