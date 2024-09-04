@@ -25,6 +25,6 @@ F_1 Score: 0.6666666666666666
 Para la columna de Attendance
 
 
-## Los archivos de Valhalla_LogReg_ realizan el ejercicio de la segunda entrega, por medio de una regresión lineal que parte de Valks a Celsius.
+## Los archivos de Valhalla__LogReg__ realizan el ejercicio de la segunda entrega, por medio de una regresión lineal que parte de Valks a Celsius.
 
 Se muestran resultados favorecedores, pues se obtuvo un coeficiente de determinación $\approx 1$ y un MSE muy bajo de $\approx 2.99$.
