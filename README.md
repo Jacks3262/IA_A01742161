@@ -16,6 +16,8 @@ Se muestran los resultados favorecedores, con un buen ajuste del modelo, tanto p
 * Actividad 4. Explorando bases (pdf)
 * Actividad 5. Transformaciones (pdf)
 * Actividad Integradora 1 (pdf)
+
+Correcciones: se corrigió el archivo del análisis del contexto y la normatividad, donde se añadieron las referencias faltantes y los cambios realizados dentro del ensayo, donde se indagó más en el reto. Finalmente, se corrgió el archivo de ValhallaSGDReg, donde se añadieron las gráficas de prueba, entrenamiento y validación faltantes, y la ruta correcta al csv de Valhalla.
 # Portafolio de implementación
 ## Los archivos de A01742161_LogReg_ muestran el ejercicio realizado para Week02_Challenge1.
 
@@ -47,3 +49,6 @@ Se muestran resultados favorecedores, pues se obtuvo un coeficiente de determina
 * Actividad 11. Regresión lineal con Interacción (pdf)
 * Actividad 12. Verificación del modelo e intervalos de confianza (pdf)
 * Actividad integradora 2 (pdf)
+
+Correcciones: se corrigió el archivo del logreg para week02_challenge1, pues se utilizaba el mejor learning rate, por lo que se mejoró y se añadieron mejores resultados.
+Posteriormente, se mejoraron los archivos de valhalla_logreg, pues no incluía la ruta al archivo y se habían volteado los ejes entre valks y celsius (y y x).
