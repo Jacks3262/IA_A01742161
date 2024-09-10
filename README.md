@@ -4,7 +4,7 @@ En este se habla sobre la toma de decisiones algortítmicas dentro del marco leg
 
 
 
-## Los archivos de A01742161_Valhalla_SGDRegressor realizan el ejercicio de la tercera entrega del módulo de Machine Learning, por medio de una regresión estocástica de gradiente descendente. 
+## Los archivos de __A01742161_Valhalla_SGDReg__ realizan el ejercicio de la tercera entrega del módulo de Machine Learning, por medio de una regresión estocástica de gradiente descendente. 
 Se muestran los resultados favorecedores, con un buen ajuste del modelo, tanto para el modelo por medio de muestras óptimo y el modelo con todo el conjunto de datos.
 
 # Portafolio de implementación
